@@ -65,4 +65,4 @@ else
 
  
 
-  //checkWeather adlı bir fonksiyon tanımlanıyor. Bu fonksiyon async olarak tanımlandığı için, içinde await ifadesi kullanılabilir. async fonksiyonlar, asenkron işlemleri senkronmuş gibi yazmamıza olanak tanır.Bu sırada fetch fonksiyonu kullanılarak bir HTTP isteği yapılmak isteniyor. fetch genellikle bir URL ile kullanılarak bir web sayfasına veya API'ye istek yapar.await anahtar kelimesi, fetch fonksiyonunun tamamlanmasını bekler ve sonucu response adlı değişkene atar.
+  
